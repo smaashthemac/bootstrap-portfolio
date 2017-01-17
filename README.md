@@ -1,9 +1,11 @@
-# bootstrap-portfolio
+# Basic Portfolio - Bootstrap
 
-A redo of our first bootcamp assignment, which was to build a portfolio website from scratch. This is rebuilding that same portfolio, but using bootstrap and a new theme.
+This basic portfolio is a redo of our original basic portfolio assignment, only this one uses a Bootstrap template. 
 
-Uses:
+This project was created as an assignment for the Coding Bootcamp at UT Austin.
 
-HTML
-CSS
-Bootstrap
+# Technologies Used
+
+- HTML
+- CSS
+- Bootstrap
